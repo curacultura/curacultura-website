@@ -1,0 +1,20 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: project4_post
+title: Rise-Rosa-Rage Archive of Socio-Political Graphics
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: 
+# multiple category is not supported
+category: 
+# multiple tag entries are possible
+tags: [Curatorial, Archive, Online, Collections Management, Cataloguing, Private]
+# thumbnail image for post
+img: 
+
+# publish date
+date: 2023-05-11 08:12:06 +0900
+
+---
+# Rise-Rosa-Rage Archive of Socio-Political Graphics, Rome, Italy / Online
